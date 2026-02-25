@@ -1,2 +1,2 @@
-def echo(input_string: str) -> str:
-    return input_string
+def version() -> str:
+    return "0.2.0"
